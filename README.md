@@ -12,6 +12,13 @@
 </h3>
 
 <p align="center">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/git-explorer-gostack?color=1db954">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/git-explorer-gostack?color=1db954">
+      <img alt="Stars" src="https://img.shields.io/github/stars/Gilles30/git-explorer-gostack?color=1db954">
+      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Gilles30/git-explorer-gostack?color=1db954">
+  </p>
+
+<p align="center">
   <a href="#rocket-sobre-o-projeto">Sobre o projeto</a> | <a href="#computer-tecnologias">Tecnologias</a> | <a href="#books-guia-de-instalação-e-execução">Guia de instalação e execução</a> | <a href="#scroll-licença">Licença</a>
 </p>
 
