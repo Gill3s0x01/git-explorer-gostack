@@ -1,6 +1,6 @@
 
 <h1 align="center">
- GitHub Explorer
+ GitExplorer
 </h1>
 
 <p align="center">
